@@ -58,7 +58,7 @@ btn_ce.bind('<Button-1>',test)
 btn_c.bind('<Button-1>',test)
 btn_delete.bind('<Button-1>',test)
 
-#button --> row 1 --> 7, 8, 9, *
+# button --> row 1 --> 7, 8, 9, *
 btn_seven = tk.Button(frame, text='7',width=9, height=3, bg='#ffffff',relief='groove', font=('trebuchet',9))
 btn_eight = tk.Button(frame, text='8',width=9, height=3, bg='#ffffff',relief='groove', font=('trebuchet',9))
 btn_nine = tk.Button(frame, text='9',width=9, height=3, bg='#ffffff',relief='groove', font=('trebuchet',9))
